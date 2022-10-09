@@ -1,0 +1,7 @@
+# audio info  configuration
+#
+config SKY_HELLO_SKY
+	tristate "Amlogic audio info support"
+	default m
+	help
+		support the amlogic audio info;
